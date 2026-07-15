@@ -152,9 +152,9 @@ cloud_infrastructure:
 <tr valign="middle">
 <td><b>LLMs &amp; AI</b></td>
 <td>
-<img src="https://cdn.simpleicons.org/langchain" height="45" alt="LangChain"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=langchain" height="45" alt="LangChain"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/langgraph" height="45" alt="LangGraph"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openai" height="45" alt="OpenAI"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=openai" height="45" alt="OpenAI"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/googlegemini" height="45" alt="Gemini"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/huggingface" height="45" alt="Hugging Face"/>&nbsp;&nbsp;&nbsp;
 <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/qwen.svg" height="45" alt="Qwen"/>&nbsp;&nbsp;&nbsp;
@@ -223,8 +223,8 @@ cloud_infrastructure:
 <p>
 <img src="https://cdn.simpleicons.org/fastapi" height="28" alt="FastAPI"/>&nbsp;
 <img src="https://cdn.simpleicons.org/mongodb" height="28" alt="MongoDB"/>&nbsp;
-<img src="https://cdn.simpleicons.org/langchain" height="28" alt="LangChain"/>&nbsp;
-<img src="https://cdn.simpleicons.org/openai" height="28" alt="OpenAI"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=langchain" height="28" alt="LangChain"/>&nbsp;
+<img src="https://cdn.simpleicons.org/openai/white" height="28" alt="OpenAI"/>&nbsp;
 <img src="https://cdn.simpleicons.org/opencv" height="28" alt="OpenCV"/>&nbsp;
 <img src="https://cdn.simpleicons.org/googlegemini" height="28" alt="Gemini"/>
 </p>
@@ -249,7 +249,7 @@ cloud_infrastructure:
 <p>
 <img src="https://cdn.simpleicons.org/fastapi" height="28" alt="FastAPI"/>&nbsp;
 <img src="https://cdn.simpleicons.org/googlecloud" height="28" alt="Google Cloud Vision"/>&nbsp;
-<img src="https://cdn.simpleicons.org/langchain" height="28" alt="LangChain"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=langchain" height="28" alt="LangChain"/>&nbsp;
 <img src="https://cdn.simpleicons.org/googlegemini" height="28" alt="Gemini"/>&nbsp;
 <img src="https://cdn.simpleicons.org/mongodb" height="28" alt="MongoDB"/>
 </p>
@@ -315,7 +315,7 @@ cloud_infrastructure:
 <p><b>Solution:</b> Constructed a secure, FastAPI-backed search workspace that links directly to Google Drive, indexes documents, and runs retrieval-augmented question answering.</p>
 <p><b>Key Features:</b> Document collection integration · Secure API routes · Semantic context extraction · Grounded response generation.</p>
 <p>
-<img src="https://cdn.simpleicons.org/langchain" height="28" alt="LangChain"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=langchain" height="28" alt="LangChain"/>&nbsp;
 <img src="https://cdn.simpleicons.org/googledrive" height="28" alt="Google Drive"/>&nbsp;
 <img src="https://cdn.simpleicons.org/fastapi" height="28" alt="FastAPI"/>
 </p>
@@ -371,8 +371,8 @@ cloud_infrastructure:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZawarFahim&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=2E86FF&icon_color=2E86FF&text_color=FFFFFF&ring_color=2E86FF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZawarFahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=2E86FF&text_color=FFFFFF" width="41%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ZawarFahim&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=2E86FF&icon_color=2E86FF&text_color=FFFFFF&ring_color=2E86FF" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZawarFahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=2E86FF&text_color=FFFFFF" width="41%"/>
 
 <br/><br/>
 
@@ -384,13 +384,7 @@ cloud_infrastructure:
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZawarFahim&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZawarFahim&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZawarFahim&theme=github_dark" width="32%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ZawarFahim&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%"/>
+<img src="https://trophy.benkou.dev/?username=ZawarFahim&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%"/>
 
 <br/><br/>
 
@@ -406,8 +400,8 @@ cloud_infrastructure:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin?username=ZawarFahim&repo=Netsol-Chatbot&theme=tokyonight&bg_color=0A0E27&title_color=2E86FF&icon_color=2E86FF&text_color=FFFFFF" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin?username=ZawarFahim&repo=Cnic-Parser&theme=tokyonight&bg_color=0A0E27&title_color=2E86FF&icon_color=2E86FF&text_color=FFFFFF" width="45%"/>
+<img src="https://github-stats-extended.vercel.app/api/pin?username=ZawarFahim&repo=Netsol-Chatbot&theme=tokyonight&bg_color=0A0E27&title_color=2E86FF&icon_color=2E86FF&text_color=FFFFFF" width="45%"/>
+<img src="https://github-stats-extended.vercel.app/api/pin?username=ZawarFahim&repo=Cnic-Parser&theme=tokyonight&bg_color=0A0E27&title_color=2E86FF&icon_color=2E86FF&text_color=FFFFFF" width="45%"/>
 
 </div>
 
