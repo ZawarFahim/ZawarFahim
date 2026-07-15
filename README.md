@@ -208,7 +208,7 @@ cloud_infrastructure:
 <img src="https://cdn.simpleicons.org/fastapi" height="28" alt="FastAPI"/>&nbsp;
 <img src="https://cdn.simpleicons.org/mongodb" height="28" alt="MongoDB"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=langchain" height="28" alt="LangChain"/>&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" height="28" alt="OpenAI"/>&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg?v=3" height="28" alt="OpenAI"/>&nbsp;
 <img src="https://cdn.simpleicons.org/opencv" height="28" alt="OpenCV"/>&nbsp;
 <img src="https://cdn.simpleicons.org/googlegemini" height="28" alt="Gemini"/>
 </p>
@@ -355,28 +355,28 @@ cloud_infrastructure:
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=ZawarFahim&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=2E86FF&icon_color=2E86FF&text_color=FFFFFF&ring_color=2E86FF" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZawarFahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=2E86FF&text_color=FFFFFF" width="41%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ZawarFahim&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=2E86FF&icon_color=2E86FF&text_color=FFFFFF&ring_color=2E86FF&v=3" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZawarFahim&layout=compact&theme=transparent&hide_border=true&title_color=2E86FF&text_color=FFFFFF&v=3" width="41%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ZawarFahim&theme=tokyonight&hide_border=true&background=0A0E27&ring=2E86FF&fire=2E86FF&currStreakLabel=2E86FF" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=ZawarFahim&theme=transparent&hide_border=true&ring=2E86FF&fire=2E86FF&currStreakLabel=2E86FF&v=3" width="90%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZawarFahim&theme=react-dark&bg_color=0A0E27&color=2E86FF&line=2E86FF&point=FFFFFF&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZawarFahim&theme=react-dark&bg_color=00000000&color=2E86FF&line=2E86FF&point=FFFFFF&hide_border=true&v=3" width="90%"/>
 
 <br/><br/>
 
-<img src="https://trophy.benkou.dev/?username=ZawarFahim&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%"/>
+<img src="https://trophy.benkou.dev/?username=ZawarFahim&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&v=3" width="90%"/>
 
 <br/><br/>
 
-<img src="https://metrics.lecoq.io/ZawarFahim?template=classic&base=header,activity,community,repositories&base.active=false&base.common=false" width="90%"/>
+<img src="https://metrics.lecoq.io/ZawarFahim?template=classic&base=header,activity,community,repositories&base.active=false&base.common=false&v=3" width="90%"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?v=3" width="90%"/>
 
 <br/><br/>
 
@@ -384,8 +384,8 @@ cloud_infrastructure:
 
 <br/>
 
-<img src="https://github-stats-extended.vercel.app/api/pin?username=ZawarFahim&repo=Netsol-Chatbot&theme=tokyonight&bg_color=0A0E27&title_color=2E86FF&icon_color=2E86FF&text_color=FFFFFF" width="45%"/>
-<img src="https://github-stats-extended.vercel.app/api/pin?username=ZawarFahim&repo=Cnic-Parser&theme=tokyonight&bg_color=0A0E27&title_color=2E86FF&icon_color=2E86FF&text_color=FFFFFF" width="45%"/>
+<img src="https://github-stats-extended.vercel.app/api/pin?username=ZawarFahim&repo=Netsol-Chatbot&theme=transparent&hide_border=true&title_color=2E86FF&icon_color=2E86FF&text_color=FFFFFF&v=3" width="45%"/>
+<img src="https://github-stats-extended.vercel.app/api/pin?username=ZawarFahim&repo=Cnic-Parser&theme=transparent&hide_border=true&title_color=2E86FF&icon_color=2E86FF&text_color=FFFFFF&v=3" width="45%"/>
 
 </div>
 
