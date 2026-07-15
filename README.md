@@ -6,19 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1100&color=2E86FF&center=true&vCenter=true&width=680&lines=Computer+Vision+Engineer;AI+Engineer;Machine+Learning+Engineer;LLM+%26+RAG+Systems;MLOps+Enthusiast;Backend+Developer;FastAPI+Developer;PyTorch+Developer;Open+Source+Contributor;Building+Production+AI+Systems" alt="Typing SVG"/>
 
-<br/><br/>
-
-<a href="https://zawar-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2E86FF?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/ZawarFahim"><img src="https://img.shields.io/badge/GitHub-2E86FF?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-zawar-fahim-4bb622342/"><img src="https://img.shields.io/badge/LinkedIn-2E86FF?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:zawar.fahim200@gmail.com"><img src="https://img.shields.io/badge/Email-2E86FF?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Hugging_Face-2E86FF?style=flat-square&logo=huggingface&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Resume-2E86FF?style=flat-square&logo=googledocs&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-2E86FF?style=flat-square&logo=leetcode&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Kaggle-2E86FF?style=flat-square&logo=kaggle&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Spotify-2E86FF?style=flat-square&logo=spotify&logoColor=white"/></a>
-
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=ZawarFahim&label=Profile%20Views&color=2E86FF&style=flat-square"/>
 
@@ -41,18 +29,103 @@ I enjoy the unglamorous problems most: making an OCR pipeline handle a blurry ph
 ## Tech Stack
 
 <table width="100%">
-<tr><td width="150"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark"/></td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark"/></td></tr>
-<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark"/></td></tr>
-<tr><td><b>AI / ML</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark"/></td></tr>
-<tr><td><b>LLMs</b></td><td><img src="https://skillicons.dev/icons?i=langchain&theme=dark"/></td></tr>
-<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,firebase&theme=dark"/></td></tr>
-<tr><td><b>Cloud</b></td><td><img src="https://skillicons.dev/icons?i=aws,gcp,vercel,huggingface&theme=dark"/></td></tr>
-<tr><td><b>DevOps</b></td><td><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git&theme=dark"/></td></tr>
-<tr><td><b>Dev Tools</b></td><td><img src="https://skillicons.dev/icons?i=vscode,postman,anaconda&theme=dark"/></td></tr>
+<tr valign="middle">
+<td width="160"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-2E86FF?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-2E86FF?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-2E86FF?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-2E86FF?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-2E86FF?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-2E86FF?style=flat-square&logo=css3&logoColor=white"/>
+</td>
+</tr>
+<tr valign="middle">
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-2E86FF?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-2E86FF?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</td>
+</tr>
+<tr valign="middle">
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-2E86FF?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-2E86FF?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-2E86FF?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</td>
+</tr>
+<tr valign="middle">
+<td><b>AI / ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/PyTorch-2E86FF?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-2E86FF?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_learn-2E86FF?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-2E86FF?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-2E86FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/ONNX-2E86FF?style=flat-square&logo=onnx&logoColor=white"/>
+</td>
+</tr>
+<tr valign="middle">
+<td><b>LLMs</b></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-2E86FF?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-2E86FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI-2E86FF?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-2E86FF?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qwen-2E86FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenRouter-2E86FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/HF_Transformers-2E86FF?style=flat-square&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/vLLM-2E86FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sentence_Transformers-2E86FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Whisper-2E86FF?style=flat-square&logo=openai&logoColor=white"/>
+</td>
+</tr>
+<tr valign="middle">
+<td><b>OCR</b></td>
+<td>
+<img src="https://img.shields.io/badge/Google_Vision_OCR-2E86FF?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/PaddleOCR-2E86FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Chandra_OCR-2E86FF?style=flat-square"/>
+</td>
+</tr>
+<tr valign="middle">
+<td><b>Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-2E86FF?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-2E86FF?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-2E86FF?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-2E86FF?style=flat-square&logo=firebase&logoColor=white"/>
+</td>
+</tr>
+<tr valign="middle">
+<td><b>Cloud &amp; Deployment</b></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-2E86FF?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-2E86FF?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-2E86FF?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face_Spaces-2E86FF?style=flat-square&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/Modal-2E86FF?style=flat-square"/>
+</td>
+</tr>
+<tr valign="middle">
+<td><b>DevOps</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2E86FF?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2E86FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-2E86FF?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-2E86FF?style=flat-square&logo=git&logoColor=white"/>
+</td>
+</tr>
+<tr valign="middle">
+<td><b>Dev Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/VS_Code-2E86FF?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-2E86FF?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-2E86FF?style=flat-square&logo=anaconda&logoColor=white"/>
+</td>
+</tr>
 </table>
-
-<sub>Additional working knowledge: YOLO · ONNX · OpenRouter · Gemini · Qwen · Whisper · Google Vision OCR · PaddleOCR · Chandra OCR · Modal</sub>
 
 <br/>
 
@@ -269,49 +342,19 @@ open_to:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZawarFahim&theme=react-dark&bg_color=0A0E27&color=2E86FF&line=2E86FF&point=FFFFFF&hide_border=true" width="90%"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZawarFahim&theme=github_dark" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZawarFahim&theme=github_dark" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZawarFahim&theme=github_dark" width="32%"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=ZawarFahim&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-</div>
-
-<br/>
-
-## Now Playing
-
-<div align="center">
-
-<!-- Spotify integration placeholder — connect via a Spotify README workflow to populate this card -->
-<img src="https://img.shields.io/badge/Spotify_Now_Playing-2E86FF?style=flat-square&logo=spotify&logoColor=white"/>
-
-</div>
-
-<br/>
-
-## Daily Coding Stats
-
-<div align="center">
-
-<!-- WakaTime integration placeholder — add a WakaTime badge/README block once connected -->
-<img src="https://img.shields.io/badge/WakaTime-2E86FF?style=flat-square&logo=wakatime&logoColor=white"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> "Make it work, make it right, make it fast." — Kent Beck
 
 </div>
 
@@ -325,36 +368,9 @@ open_to:
 <a href="https://github.com/ZawarFahim"><img src="https://img.shields.io/badge/GitHub-2E86FF?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/muhammad-zawar-fahim-4bb622342/"><img src="https://img.shields.io/badge/LinkedIn-2E86FF?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:zawar.fahim200@gmail.com"><img src="https://img.shields.io/badge/Email-2E86FF?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Hugging_Face-2E86FF?style=flat-square&logo=huggingface&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Resume-2E86FF?style=flat-square&logo=readdotcv&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<!--START-LAST-UPDATED-->
-<sub>Last updated: —</sub>
-<!--END-LAST-UPDATED-->
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:12305E,100:2E86FF&height=120&section=footer" width="100%"/>## Hi there 👋
-
-<!--
-**ZawarFahim/ZawarFahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:12305E,100:2E86FF&height=120&section=footer" width="100%"/>
