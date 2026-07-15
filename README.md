@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1100&color=2E86FF&center=true&vCenter=true&width=680&lines=Computer+Vision+Engineer;AI+Engineer;Machine+Learning+Engineer;LLM+%26+RAG+Systems;MLOps+Enthusiast;Backend+Developer;FastAPI+Developer;PyTorch+Developer;Open+Source+Contributor;Building+Production+AI+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1100&color=2E86FF&center=true&vCenter=true&width=680&lines=AI+Intern+%40+NETSOL+Technologies;Building+Production+AI;Computer+Vision+%26+OCR;LLM+%26+RAG+Systems;FastAPI+%26+MLOps;Always+Shipping" alt="Typing SVG"/>
 
 <br/>
 
@@ -168,7 +168,7 @@ cloud_infrastructure:
 <td>
 <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS"/>&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="Google Cloud"/>&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel"/>&nbsp;&nbsp;&nbsp;
+<img src="https://vercel.com/assets/favicon.ico" height="45" alt="Vercel"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/huggingface" height="45" alt="Hugging Face Spaces"/>&nbsp;&nbsp;&nbsp;
 <img src="https://modal-cdn.com/Modal-Primary-Logo.png" height="45" alt="Modal"/>
 </td>
@@ -380,7 +380,7 @@ cloud_infrastructure:
 
 <br/><br/>
 
-### 📌 Featured Repositories
+### 📌 Pinned Repositories
 
 <br/>
 
