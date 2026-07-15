@@ -16,53 +16,47 @@
 
 ## About
 
-Most AI projects die in a Jupyter notebook — a model that scores well on a held-out set but has never met a real user, a bad network connection, or an edge case nobody thought to test. I build the part that comes after that: the API layer, the auth, the retry logic, the Docker image — the software engineering that turns a model into a system someone can actually depend on.
+I am a production-focused AI Engineer and current AI Intern at NETSOL Technologies, completing my BS in Artificial Intelligence at GIKI. I specialize in bridging the gap between research and production—building the software engineering infrastructure, asynchronous API layers, biometric auth gates, and containerized serving pipelines required to turn machine learning models into reliable, user-facing systems.
 
-That's the thread running through my work as an **AI Intern at NETSOL Technologies**, where I work on computer vision and model deployment, and through my **BS in Artificial Intelligence at GIKI**. I'm equally at home training a model and shipping it — building **RAG pipelines** that retrieve the right context instead of a plausible one, wiring **LLMs** into products with actual guardrails, and designing **backend APIs** that don't fall over the moment more than one person uses them.
-
-I enjoy the unglamorous problems most: making an OCR pipeline handle a blurry phone photo instead of a clean scan, making a retrieval system say "I don't know" instead of hallucinating, making a **Docker**-packaged inference service restart cleanly after a crash. Production AI is mostly discipline, and I like the discipline.
-
-**Currently focused on:** Computer Vision · Large Language Models · Retrieval-Augmented Generation · MLOps · Backend Engineering & Deployment
+My technical focus centers on training and deploying computer vision models, optimizing retrieval-augmented generation (RAG) databases for zero hallucinations, and orchestrating full-cycle MLOps pipelines. I enjoy solving unglamorous production challenges: writing robust inference servers that handle dirty document scans, implementing container health retries, and designing backend structures that scale efficiently under concurrent workloads.
 
 <br/>
 
-## 🚀 Engineering Philosophy
+## 🏆 Highlights
 
-I believe production AI is software engineering first, and modeling second. A model is only as good as the system surrounding it. My focus is on eliminating the gap between research and production—building highly performant, automated, and secure pipelines that scale. Clean architecture, thorough validation gates, and robust model-serving infrastructures are the foundations of all my systems.
-
-<br/>
-
-## 🎯 Core Expertise
-
-*   **👁️ Computer Vision:** Face authentication, real-time object detection, image processing pipelines.
-*   **📄 OCR & Document Intelligence:** High-accuracy raw text extraction, layout analysis, and semantic field parsing.
-*   **🤖 Large Language Models:** Multi-agent workflows, prompt engineering, and structured output formatting.
-*   **🔍 Retrieval-Augmented Generation (RAG):** Context-aware indexes, semantic vector searches, and hallucination guardrails.
-*   **⚙️ MLOps:** Automated data validation, continuous quality gating, and retraining pipelines.
-*   **🔌 Backend Engineering:** Authenticated, asynchronous, low-latency API design with JWT security.
-*   **📦 AI Deployment:** Containerization, GPU worker orchestration, and serverless inference.
+*   **💼 Current Role:** AI Intern @ NETSOL Technologies
+*   **🎓 Academic Profile:** BS Artificial Intelligence @ GIKI
+*   **🤖 Focus Areas:** Production AI Systems · Computer Vision · LLM Applications · MLOps
 
 <br/>
 
-## ⚙️ Engineering Principles
+## 📅 Career Timeline
 
-*   **Production over prototypes:** Prioritize modular, testable production code over isolated notebook experiments.
-*   **Clean architecture:** Maintain strict separation of concerns, ensuring services are easily maintainable and extensible.
-*   **Scalable APIs:** Optimize endpoints for concurrent requests and highly efficient GPU/CPU resource utilization.
-*   **Automation first:** Build continuous integration, continuous testing, and automated deployment pipelines.
-*   **Performance-driven:** Rely on quantitative benchmarking to profile model latency, throughput, and accuracy.
-*   **Continuous improvement:** Implement active logging, telemetry, and automated feedback loops for retraining.
+```
+2026
+├── AI Intern @ NETSOL Technologies
+├── Production AI Projects
+├── Computer Vision APIs
+└── BS Artificial Intelligence @ GIKI
+```
 
 <br/>
 
-## 📦 What I Build
+## 🚀 Currently Building
 
-*   **AI Products:** Voice-first conversational agents featuring biometric identity verification.
-*   **Computer Vision Systems:** Real-time facial validation and object detection systems.
-*   **OCR Pipelines:** Automated engines that parse identity documents into clean, structured JSON schemas.
-*   **RAG Applications:** Knowledge bases integrating secure file hosting (like Google Drive) with factual retrieval.
-*   **Backend APIs:** Asynchronous, stateful REST APIs built to orchestrate and serve AI inference.
-*   **MLOps Pipelines:** Automated training pipelines that validate data drift and quality before deploying.
+*   **🔍 Production RAG:** High-accuracy retrieval-augmented generation systems.
+*   **📂 AI Workspace:** Secure integration pipelines for enterprise cloud storage.
+*   **📊 OCR Benchmarks:** Parallel GPU performance testing platforms for OCR engines.
+*   **📦 MLOps Pipelines:** Automated quality validation gates and continuous model serving.
+*   **🔌 Computer Vision APIs:** Real-time facial recognition and biometric auth routes.
+
+<br/>
+
+## 💡 Interests
+
+*   **🧠 Core AI:** Machine Learning · Computer Vision · Large Language Models (LLMs)
+*   **📐 Architecture:** System Design · Distributed Systems · High-Performance Backend APIs
+*   **🌐 Community:** Open Source Projects · Document Intelligence Research
 
 <br/>
 
@@ -88,16 +82,6 @@ cloud_infrastructure:
   - Google Cloud
   - Modal
   - Vercel
-```
-
-<br/>
-
-## 🔄 Development Workflow
-
-```
-[ Research ] ──> [ Architecture ] ──> [ Prototype ] ──> [ Training ]
-                                                            │
-[ Continuous Improvement ] <── [ Monitoring ] <── [ Deployment ] <── [ Evaluation ]
 ```
 
 <br/>
@@ -150,7 +134,7 @@ cloud_infrastructure:
 </td>
 </tr>
 <tr valign="middle">
-<td><b>LLMs &amp; AI</b></td>
+<td><b>LLMs</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=langchain" height="45" alt="LangChain"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/langgraph" height="45" alt="LangGraph"/>&nbsp;&nbsp;&nbsp;
@@ -180,7 +164,7 @@ cloud_infrastructure:
 </td>
 </tr>
 <tr valign="middle">
-<td><b>Cloud &amp; Deployment</b></td>
+<td><b>Cloud</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS"/>&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="Google Cloud"/>&nbsp;&nbsp;&nbsp;
@@ -199,7 +183,7 @@ cloud_infrastructure:
 </td>
 </tr>
 <tr valign="middle">
-<td><b>Dev Tools</b></td>
+<td><b>Developer Tools</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman"/>&nbsp;&nbsp;&nbsp;
@@ -218,7 +202,7 @@ cloud_infrastructure:
 <td width="100%">
 <h3>IZS — AI Voice Chatbot with Document Search &amp; Face ID</h3>
 <p><b>Problem Solved:</b> Traditional document assistants lack natural voice interfaces and secure access control, making them vulnerable to unauthorized data exposure.</p>
-<p><b>Solution:</b> Designed a speech-to-speech conversational assistant that integrates OpenCV-based facial recognition biometric auth prior to granting document search access.</p>
+<p><b>Solution:</b> Designed a speech-to-speech conversational assistant that integrates OpenCV facial recognition biometric auth prior to granting document search access.</p>
 <p><b>Key Features:</b> Biometric Face ID auth · Low-latency Whisper speech-to-text · Kokoro text-to-speech engine · Secure JWT sessions · LangChain RAG pipeline.</p>
 <p>
 <img src="https://cdn.simpleicons.org/fastapi" height="28" alt="FastAPI"/>&nbsp;
@@ -243,9 +227,9 @@ cloud_infrastructure:
 <tr>
 <td width="100%">
 <h3>CNIC.io — Intelligent Pakistani CNIC Parser</h3>
-<p><b>Problem Solved:</b> Manual data entry from national identity cards is slow, error-prone, and presents workflow bottlenecks in customer onboarding.</p>
-<p><b>Solution:</b> Developed a high-accuracy parsing pipeline using Google Cloud Vision for OCR, and Gemini 2.5 Flash as a structured compiler to clean and extract card fields.</p>
-<p><b>Key Features:</b> Document orientation check · OCR parsing · LLM field correction &amp; validation · Structured JSON output schema.</p>
+<p><b>Problem Solved:</b> Manual data entry from national identity cards is slow and error-prone, creating critical bottlenecks in customer onboarding.</p>
+<p><b>Solution:</b> Developed a parsing pipeline utilizing Google Cloud Vision for OCR, and Gemini 2.5 Flash as an LLM structured compiler to extract verified data fields.</p>
+<p><b>Key Features:</b> Document orientation check · OCR parsing · LLM-based text correction · Structured JSON output schema.</p>
 <p>
 <img src="https://cdn.simpleicons.org/fastapi" height="28" alt="FastAPI"/>&nbsp;
 <img src="https://cdn.simpleicons.org/googlecloud" height="28" alt="Google Cloud Vision"/>&nbsp;
@@ -269,8 +253,8 @@ cloud_infrastructure:
 <td width="100%">
 <h3>End-to-End MLOps Pipeline for Predictive Analytics</h3>
 <p><b>Problem Solved:</b> Machine learning models deployed in production degrade silently over time without automated validation gates or retraining loops.</p>
-<p><b>Solution:</b> Engineered a fully automated MLOps pipeline using Prefect to orchestrate training, and DeepChecks to validate model drift, accuracy, and data quality before serving.</p>
-<p><b>Key Features:</b> Quality-gated automated training · Continuous model validation · CI/CD integration · Dockerized prediction service.</p>
+<p><b>Solution:</b> Engineered a fully automated MLOps pipeline using Prefect to orchestrate training, and DeepChecks to validate model drift and data quality before serving.</p>
+<p><b>Key Features:</b> Quality-gated automated training · Continuous model validation · CI/CD integration · Dockerized prediction API.</p>
 <p>
 <img src="https://cdn.simpleicons.org/fastapi" height="28" alt="FastAPI"/>&nbsp;
 <img src="https://cdn.simpleicons.org/react" height="28" alt="React"/>&nbsp;
@@ -290,7 +274,7 @@ cloud_infrastructure:
 <tr>
 <td width="100%">
 <h3>Modal OCR Benchmark</h3>
-<p><b>Problem Solved:</b> Quantitative data comparing speed, accuracy, and cost of OCR engines on GPUs is sparse, making tooling decisions difficult.</p>
+<p><b>Problem Solved:</b> Empirical data comparing the GPU throughput, latency, and cost of modern OCR and VLM engines is sparse, making technical selections difficult.</p>
 <p><b>Solution:</b> Built a serverless benchmarking platform using Modal to spin up GPU workers executing PaddleOCR, Chandra OCR, and vLLM-served Qwen in parallel.</p>
 <p><b>Key Features:</b> Serverless GPU orchestration · Multi-engine benchmarking · Performance and latency profiling · Static dashboard generator.</p>
 <p>
@@ -407,7 +391,7 @@ cloud_infrastructure:
 
 <br/>
 
-## 💼 Experience & Education
+## 💼 Career Timeline & Experience
 
 ```
 Present   ── AI Intern, NETSOL Technologies
@@ -416,38 +400,6 @@ Present   ── AI Intern, NETSOL Technologies
 Present   ── BS Artificial Intelligence, GIKI
               Artificial intelligence · machine learning · computer vision · software engineering
 ```
-
-<br/>
-
-## 🎯 Current Focus & Interests
-
-```yaml
-building:
-  - Production AI applications
-  - Computer vision systems
-  - MLOps pipelines
-  - LLM applications
-
-learning:
-  - Agentic AI
-  - Distributed systems
-  - LLM optimization
-  - Model serving
-  - Research papers
-
-open_to:
-  - AI Engineer
-  - Machine Learning Engineer
-  - Computer Vision Engineer
-  - Backend Engineer
-  - Research collaboration
-```
-
-<br/>
-
-## 🤝 Open to Collaborate
-
-I am open to collaborating on **AI Engineering**, **Computer Vision** systems, **MLOps** pipelines, high-performance **Backend Systems**, **Open Source** projects, and **Research** in document intelligence.
 
 <br/>
 
