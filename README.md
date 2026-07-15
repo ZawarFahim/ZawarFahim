@@ -122,7 +122,7 @@ cloud_infrastructure:
 <td>
 <img src="https://skillicons.dev/icons?i=opencv" height="45" alt="OpenCV"/>&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/favicon.png" height="45" alt="YOLO"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/onnx" height="45" alt="ONNX"/>
+<img src="https://cdn.simpleicons.org/onnx/white" height="45" alt="ONNX"/>
 </td>
 </tr>
 <tr valign="middle">
@@ -151,7 +151,7 @@ cloud_infrastructure:
 <td>
 <img src="https://cdn.simpleicons.org/googlecloud" height="45" alt="Google Cloud Vision"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/paddlepaddle" height="45" alt="PaddleOCR"/>&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/datalab-to/chandra/main/datalab-logo.png" height="45" alt="Chandra OCR"/>
+<span style="font-weight: bold; font-size: 16px; vertical-align: middle; color: #FFFFFF; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Chandra OCR</span>
 </td>
 </tr>
 <tr valign="middle">
@@ -168,7 +168,7 @@ cloud_infrastructure:
 <td>
 <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS"/>&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="Google Cloud"/>&nbsp;&nbsp;&nbsp;
-<img src="https://vercel.com/assets/favicon.ico" height="45" alt="Vercel"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/huggingface" height="45" alt="Hugging Face Spaces"/>&nbsp;&nbsp;&nbsp;
 <img src="https://modal-cdn.com/Modal-Primary-Logo.png" height="45" alt="Modal"/>
 </td>
