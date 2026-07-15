@@ -16,7 +16,7 @@
 
 ## About
 
-I am a production-focused AI Engineer and current AI Intern at NETSOL Technologies, completing my BS in Artificial Intelligence at GIKI. I specialize in bridging the gap between research and production—building the software engineering infrastructure, asynchronous API layers, biometric auth gates, and containerized serving pipelines required to turn machine learning models into reliable, user-facing systems.
+I am a production-focused AI Engineer and current AI Intern at NETSOL Technologies, currently pursuing my BS in Artificial Intelligence at GIKI. I specialize in bridging the gap between research and production—building the software engineering infrastructure, asynchronous API layers, biometric auth gates, and containerized serving pipelines required to turn machine learning models into reliable, user-facing systems.
 
 My technical focus centers on training and deploying computer vision models, optimizing retrieval-augmented generation (RAG) databases for zero hallucinations, and orchestrating full-cycle MLOps pipelines. I enjoy solving unglamorous production challenges: writing robust inference servers that handle dirty document scans, implementing container health retries, and designing backend structures that scale efficiently under concurrent workloads.
 
@@ -25,7 +25,7 @@ My technical focus centers on training and deploying computer vision models, opt
 ## 🏆 Highlights
 
 *   **💼 Current Role:** AI Intern @ NETSOL Technologies
-*   **🎓 Academic Profile:** BS Artificial Intelligence @ GIKI
+*   **🎓 Academic Profile:** Currently pursuing BS in Artificial Intelligence @ GIKI
 *   **🤖 Focus Areas:** Production AI Systems · Computer Vision · LLM Applications · MLOps
 
 <br/>
@@ -37,7 +37,7 @@ My technical focus centers on training and deploying computer vision models, opt
 ├── AI Intern @ NETSOL Technologies
 ├── Production AI Projects
 ├── Computer Vision APIs
-└── BS Artificial Intelligence @ GIKI
+└── Currently pursuing BS in Artificial Intelligence @ GIKI
 ```
 
 <br/>
@@ -208,7 +208,7 @@ cloud_infrastructure:
 <img src="https://cdn.simpleicons.org/fastapi" height="28" alt="FastAPI"/>&nbsp;
 <img src="https://cdn.simpleicons.org/mongodb" height="28" alt="MongoDB"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=langchain" height="28" alt="LangChain"/>&nbsp;
-<img src="https://cdn.simpleicons.org/openai/white" height="28" alt="OpenAI"/>&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" height="28" alt="OpenAI"/>&nbsp;
 <img src="https://cdn.simpleicons.org/opencv" height="28" alt="OpenCV"/>&nbsp;
 <img src="https://cdn.simpleicons.org/googlegemini" height="28" alt="Gemini"/>
 </p>
@@ -397,7 +397,7 @@ cloud_infrastructure:
 Present   ── AI Intern, NETSOL Technologies
               Computer vision · model deployment · inference APIs · production AI
 
-Present   ── BS Artificial Intelligence, GIKI
+Present   ── Currently pursuing BS in Artificial Intelligence, GIKI
               Artificial intelligence · machine learning · computer vision · software engineering
 ```
 
