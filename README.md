@@ -121,8 +121,8 @@ cloud_infrastructure:
 <td><b>Computer Vision</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=opencv" height="45" alt="OpenCV"/>&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/favicon.png" height="45" alt="YOLO"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/onnx/white" height="45" alt="ONNX"/>
+<img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/favicon.png" height="45" width="45" alt="YOLO"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/onnx/white" height="45" width="45" alt="ONNX"/>
 </td>
 </tr>
 <tr valign="middle">
@@ -136,21 +136,21 @@ cloud_infrastructure:
 <tr valign="middle">
 <td><b>LLMs</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=langchain" height="45" alt="LangChain"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/langgraph" height="45" alt="LangGraph"/>&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=openai" height="45" alt="OpenAI"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini" height="45" alt="Gemini"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface" height="45" alt="Hugging Face"/>&nbsp;&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/qwen.svg" height="45" alt="Qwen"/>&nbsp;&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openrouter.svg" height="45" alt="OpenRouter"/>&nbsp;&nbsp;&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/vllm.svg" height="45" alt="vLLM"/>
+<img src="https://api.iconify.design/simple-icons:langchain.svg?color=%23ffffff" height="45" width="45" alt="LangChain"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langgraph" height="45" width="45" alt="LangGraph"/>&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:openai.svg?color=%23ffffff" height="45" width="45" alt="OpenAI"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini" height="45" width="45" alt="Gemini"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface" height="45" width="45" alt="Hugging Face"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/qwen-color.svg" height="45" width="45" alt="Qwen"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openrouter-color.svg" height="45" width="45" alt="OpenRouter"/>&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/vllm-color.svg" height="45" width="45" alt="vLLM"/>
 </td>
 </tr>
 <tr valign="middle">
 <td><b>OCR</b></td>
 <td>
-<img src="https://cdn.simpleicons.org/googlecloud" height="45" alt="Google Cloud Vision"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/paddlepaddle" height="45" alt="PaddleOCR"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlecloud" height="45" width="45" alt="Google Cloud Vision"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/paddlepaddle" height="45" width="45" alt="PaddleOCR"/>&nbsp;&nbsp;&nbsp;
 <span style="font-weight: bold; font-size: 16px; vertical-align: middle; color: #FFFFFF; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Chandra OCR</span>
 </td>
 </tr>
@@ -169,8 +169,8 @@ cloud_infrastructure:
 <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS"/>&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="Google Cloud"/>&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface" height="45" alt="Hugging Face Spaces"/>&nbsp;&nbsp;&nbsp;
-<img src="https://modal-cdn.com/Modal-Primary-Logo.png" height="45" alt="Modal"/>
+<img src="https://cdn.simpleicons.org/huggingface" height="45" width="45" alt="Hugging Face Spaces"/>&nbsp;&nbsp;&nbsp;
+<img src="https://modal-cdn.com/Modal-Primary-Logo.png" height="45" width="45" alt="Modal"/>
 </td>
 </tr>
 <tr valign="middle">
@@ -205,12 +205,12 @@ cloud_infrastructure:
 <p><b>Solution:</b> Designed a speech-to-speech conversational assistant that integrates OpenCV facial recognition biometric auth prior to granting document search access.</p>
 <p><b>Key Features:</b> Biometric Face ID auth · Low-latency Whisper speech-to-text · Kokoro text-to-speech engine · Secure JWT sessions · LangChain RAG pipeline.</p>
 <p>
-<img src="https://cdn.simpleicons.org/fastapi" height="28" alt="FastAPI"/>&nbsp;
-<img src="https://cdn.simpleicons.org/mongodb" height="28" alt="MongoDB"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=langchain" height="28" alt="LangChain"/>&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg?v=3" height="28" alt="OpenAI"/>&nbsp;
-<img src="https://cdn.simpleicons.org/opencv" height="28" alt="OpenCV"/>&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini" height="28" alt="Gemini"/>
+<img src="https://cdn.simpleicons.org/fastapi" height="28" width="28" alt="FastAPI"/>&nbsp;
+<img src="https://cdn.simpleicons.org/mongodb" height="28" width="28" alt="MongoDB"/>&nbsp;
+<img src="https://api.iconify.design/simple-icons:langchain.svg?color=%23ffffff" height="28" width="28" alt="LangChain"/>&nbsp;
+<img src="https://api.iconify.design/simple-icons:openai.svg?color=%23ffffff" height="28" width="28" alt="OpenAI"/>&nbsp;
+<img src="https://cdn.simpleicons.org/opencv" height="28" width="28" alt="OpenCV"/>&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini" height="28" width="28" alt="Gemini"/>
 </p>
 <a href="https://github.com/ZawarFahim/Netsol-Chatbot" target="_blank">
   <img src="https://cdn.simpleicons.org/github/white" height="28" alt="GitHub"/>
@@ -231,11 +231,11 @@ cloud_infrastructure:
 <p><b>Solution:</b> Developed a parsing pipeline utilizing Google Cloud Vision for OCR, and Gemini 2.5 Flash as an LLM structured compiler to extract verified data fields.</p>
 <p><b>Key Features:</b> Document orientation check · OCR parsing · LLM-based text correction · Structured JSON output schema.</p>
 <p>
-<img src="https://cdn.simpleicons.org/fastapi" height="28" alt="FastAPI"/>&nbsp;
-<img src="https://cdn.simpleicons.org/googlecloud" height="28" alt="Google Cloud Vision"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=langchain" height="28" alt="LangChain"/>&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini" height="28" alt="Gemini"/>&nbsp;
-<img src="https://cdn.simpleicons.org/mongodb" height="28" alt="MongoDB"/>
+<img src="https://cdn.simpleicons.org/fastapi" height="28" width="28" alt="FastAPI"/>&nbsp;
+<img src="https://cdn.simpleicons.org/googlecloud" height="28" width="28" alt="Google Cloud Vision"/>&nbsp;
+<img src="https://api.iconify.design/simple-icons:langchain.svg?color=%23ffffff" height="28" width="28" alt="LangChain"/>&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini" height="28" width="28" alt="Gemini"/>&nbsp;
+<img src="https://cdn.simpleicons.org/mongodb" height="28" width="28" alt="MongoDB"/>
 </p>
 <a href="https://github.com/ZawarFahim/Cnic-Parser" target="_blank">
   <img src="https://cdn.simpleicons.org/github/white" height="28" alt="GitHub"/>
@@ -256,12 +256,12 @@ cloud_infrastructure:
 <p><b>Solution:</b> Engineered a fully automated MLOps pipeline using Prefect to orchestrate training, and DeepChecks to validate model drift and data quality before serving.</p>
 <p><b>Key Features:</b> Quality-gated automated training · Continuous model validation · CI/CD integration · Dockerized prediction API.</p>
 <p>
-<img src="https://cdn.simpleicons.org/fastapi" height="28" alt="FastAPI"/>&nbsp;
-<img src="https://cdn.simpleicons.org/react" height="28" alt="React"/>&nbsp;
-<img src="https://cdn.simpleicons.org/docker" height="28" alt="Docker"/>&nbsp;
-<img src="https://cdn.simpleicons.org/prefect" height="28" alt="Prefect"/>&nbsp;
-<img src="https://cdn.simpleicons.org/githubactions" height="28" alt="GitHub Actions"/>&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn" height="28" alt="Scikit-learn"/>
+<img src="https://cdn.simpleicons.org/fastapi" height="28" width="28" alt="FastAPI"/>&nbsp;
+<img src="https://cdn.simpleicons.org/react" height="28" width="28" alt="React"/>&nbsp;
+<img src="https://cdn.simpleicons.org/docker" height="28" width="28" alt="Docker"/>&nbsp;
+<img src="https://cdn.simpleicons.org/prefect" height="28" width="28" alt="Prefect"/>&nbsp;
+<img src="https://cdn.simpleicons.org/githubactions" height="28" width="28" alt="GitHub Actions"/>&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn" height="28" width="28" alt="Scikit-learn"/>
 </p>
 <a href="https://github.com/ZawarFahim/End-to-End-MLOps-Pipeline-for-Predictive-Analytics-Simulation-System-for-Decision-Making" target="_blank">
   <img src="https://cdn.simpleicons.org/github/white" height="28" alt="GitHub"/>
@@ -278,11 +278,11 @@ cloud_infrastructure:
 <p><b>Solution:</b> Built a serverless benchmarking platform using Modal to spin up GPU workers executing PaddleOCR, Chandra OCR, and vLLM-served Qwen in parallel.</p>
 <p><b>Key Features:</b> Serverless GPU orchestration · Multi-engine benchmarking · Performance and latency profiling · Static dashboard generator.</p>
 <p>
-<img src="https://cdn.simpleicons.org/paddlepaddle" height="28" alt="PaddleOCR"/>&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/vllm.svg" height="28" alt="vLLM"/>&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/qwen.svg" height="28" alt="Qwen"/>&nbsp;
-<img src="https://modal-cdn.com/Modal-Primary-Logo.png" height="28" alt="Modal"/>&nbsp;
-<img src="https://cdn.simpleicons.org/html5" height="28" alt="HTML5"/>
+<img src="https://cdn.simpleicons.org/paddlepaddle" height="28" width="28" alt="PaddleOCR"/>&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/vllm-color.svg" height="28" width="28" alt="vLLM"/>&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/qwen-color.svg" height="28" width="28" alt="Qwen"/>&nbsp;
+<img src="https://modal-cdn.com/Modal-Primary-Logo.png" height="28" width="28" alt="Modal"/>&nbsp;
+<img src="https://cdn.simpleicons.org/html5" height="28" width="28" alt="HTML5"/>
 </p>
 <a href="https://github.com/ZawarFahim/modal-ocr-vllm-benchmark" target="_blank">
   <img src="https://cdn.simpleicons.org/github/white" height="28" alt="GitHub"/>
@@ -299,9 +299,9 @@ cloud_infrastructure:
 <p><b>Solution:</b> Constructed a secure, FastAPI-backed search workspace that links directly to Google Drive, indexes documents, and runs retrieval-augmented question answering.</p>
 <p><b>Key Features:</b> Document collection integration · Secure API routes · Semantic context extraction · Grounded response generation.</p>
 <p>
-<img src="https://skillicons.dev/icons?i=langchain" height="28" alt="LangChain"/>&nbsp;
-<img src="https://cdn.simpleicons.org/googledrive" height="28" alt="Google Drive"/>&nbsp;
-<img src="https://cdn.simpleicons.org/fastapi" height="28" alt="FastAPI"/>
+<img src="https://api.iconify.design/simple-icons:langchain.svg?color=%23ffffff" height="28" width="28" alt="LangChain"/>&nbsp;
+<img src="https://cdn.simpleicons.org/googledrive" height="28" width="28" alt="Google Drive"/>&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi" height="28" width="28" alt="FastAPI"/>
 </p>
 <a href="https://github.com/AsadAkmal11/Google-Drive" target="_blank">
   <img src="https://cdn.simpleicons.org/github/white" height="28" alt="GitHub"/>
@@ -318,9 +318,9 @@ cloud_infrastructure:
 <p><b>Solution:</b> Developed a desktop dashboard with relational database models, utilizing Firebase for synchronization and PostgreSQL for persistence.</p>
 <p><b>Key Features:</b> Relational schema design · Sync capabilities · Role-based access control · Tkinter client GUI.</p>
 <p>
-<img src="https://cdn.simpleicons.org/postgresql" height="28" alt="PostgreSQL"/>&nbsp;
-<img src="https://cdn.simpleicons.org/firebase" height="28" alt="Firebase"/>&nbsp;
-<img src="https://cdn.simpleicons.org/python" height="28" alt="Python"/>
+<img src="https://cdn.simpleicons.org/postgresql" height="28" width="28" alt="PostgreSQL"/>&nbsp;
+<img src="https://cdn.simpleicons.org/firebase" height="28" width="28" alt="Firebase"/>&nbsp;
+<img src="https://cdn.simpleicons.org/python" height="28" width="28" alt="Python"/>
 </p>
 <a href="https://github.com/ZawarFahim/Smart-Attendance-System" target="_blank">
   <img src="https://cdn.simpleicons.org/github/white" height="28" alt="GitHub"/>
@@ -337,9 +337,9 @@ cloud_infrastructure:
 <p><b>Solution:</b> Built an interactive, model-agnostic dashboard allowing drag-and-drop ingestion of tabular data for automatic evaluation and plotting.</p>
 <p><b>Key Features:</b> Model-agnostic calculations · Scatter and residual visualization plots · Drag-and-drop UI.</p>
 <p>
-<img src="https://cdn.simpleicons.org/streamlit" height="28" alt="Streamlit"/>&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn" height="28" alt="Scikit-learn"/>&nbsp;
-<img src="https://cdn.simpleicons.org/python" height="28" alt="Python"/>
+<img src="https://cdn.simpleicons.org/streamlit" height="28" width="28" alt="Streamlit"/>&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn" height="28" width="28" alt="Scikit-learn"/>&nbsp;
+<img src="https://cdn.simpleicons.org/python" height="28" width="28" alt="Python"/>
 </p>
 <a href="https://github.com/AsadAkmal11/Universal-Ml-Dashboard" target="_blank">
   <img src="https://cdn.simpleicons.org/github/white" height="28" alt="GitHub"/>
